@@ -1,0 +1,3 @@
+/Users/diego/CLionProjects/PersonalFinance/cmake-build-debug/CMakeFiles/PersonalFinance.dir
+/Users/diego/CLionProjects/PersonalFinance/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diego/CLionProjects/PersonalFinance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
